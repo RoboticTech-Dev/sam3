@@ -4,7 +4,6 @@ from typing import List, Tuple
 
 import cv2
 import numpy as np
-from ultralytics import SAM
 
 
 IMG_EXTS = {".JPG", ".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff"}
